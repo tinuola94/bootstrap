@@ -1,0 +1,27 @@
+.navbar-inverse{
+    background-color: grey;
+    color: black;
+
+
+}
+#active{
+    color: brown;
+}
+
+}
+.navbar{position:relative;
+    min-height:0px;
+    margin-bottom:20px;
+    border:1px solid transparent
+}
+
+/*#car{*/
+    width: 100px;
+    height: 50px
+}
+.jumbotron{
+    text-align: center;
+}
+.btn btn-info{
+    color: green;
+}
